@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"loans":[["impl&lt;T: <a class=\"trait\" href=\"loans/pallet/trait.Config.html\" title=\"trait loans::pallet::Config\">Config</a>&gt; LoansApi&lt;&lt;T as Config&gt;::CurrencyId, &lt;T as Config&gt;::AccountId, <a class=\"struct\" href=\"currency/amount/struct.Amount.html\" title=\"struct currency::amount::Amount\">Amount</a>&lt;T&gt;&gt; for <a class=\"struct\" href=\"loans/pallet/struct.Pallet.html\" title=\"struct loans::pallet::Pallet\">Pallet</a>&lt;T&gt;"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"nomination":[["impl&lt;T: <a class=\"trait\" href=\"nomination/pallet/trait.Config.html\" title=\"trait nomination::pallet::Config\">Config</a>&gt; NominationApi&lt;<a class=\"struct\" href=\"interbtc_primitives/struct.VaultId.html\" title=\"struct interbtc_primitives::VaultId\">VaultId</a>&lt;&lt;T as Config&gt;::AccountId, &lt;T as Config&gt;::CurrencyId&gt;, Amount&lt;T&gt;&gt; for <a class=\"struct\" href=\"nomination/pallet/struct.Pallet.html\" title=\"struct nomination::pallet::Pallet\">Pallet</a>&lt;T&gt;"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
